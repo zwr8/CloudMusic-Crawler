@@ -6,7 +6,7 @@ jieba==0.39
 Jinja2==2.10
 jupyter-pip==0.3.1
 MarkupSafe==1.0
-Pillow==5.0.0
+Pillow==9.0.0
 pyecharts==0.3.1
 requests==2.18.4
 urllib3==1.22
